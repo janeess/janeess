@@ -8,11 +8,13 @@
 
 
 ## :mortar_board: Welcome to janeess👋
-<ul>
- <li>:checkered_flag: I'm currently learning</li>
- <li>:blush: new Backend developer</li>
- <li>:fire: I'll always learn from a low position</li>
-</ul>
+<h4>
+  <ul>
+   <li>:checkered_flag: I'm currently learning</li>
+   <li>:blush: new Backend developer</li>
+   <li>:fire: I'll always learn from a low position</li>
+  </ul>
+</h4>
 <br>
 
  # :sparkles:Github Stats
