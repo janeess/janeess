@@ -9,7 +9,7 @@
 <br>
   <b><h2>:sparkles:Github Stats</h2></b>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janeess&theme=gruvbox_light&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=solarized-light&show_icons=true) 
 
 
 <br>
