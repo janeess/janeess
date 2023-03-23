@@ -7,7 +7,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=black&text=%20janeess%20&height=300&fontSize=100&fontColor=F8FAFA&animation=fadeIn&textBg=true)
 
 
-### :mortar_board: Welcome to janeess👋
+## :mortar_board: Welcome to janeess👋
 <ul>
  <li>:checkered_flag: I'm currently learning</li>
  <li>:blush: new Backend developer</li>
