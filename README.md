@@ -16,3 +16,6 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janeess&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<br>
+ <b><h2>:wrench:Skills</h2></b>
