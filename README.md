@@ -39,7 +39,14 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
+# :bookmark_tabs: Experience
 
+<h4>
+   <ul>
+      <li> 2023.03 청년 AI·Big Data 아카데미 온라인 기초과정 (MOOC) 수강 <br></li>
+      <li>2022.08 ~ 2023.01 KH 정보 교육원 (디지털컨버전스) 자바(JAVA)기반 공공데이터 융합 개발자 양성과정 수료</li>
+    </ul>
+</h4>
 
 
 
