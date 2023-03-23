@@ -11,6 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janeess&theme=react&show_icons=true)
 
+
 <br>
  <b><h2>:mag:Most Used Languages</h2></b>
  
@@ -19,4 +20,4 @@
 <br>
   <b><h2>:heavy_check_mark:Pinned</h2></b>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janeess&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janeess&repo=janeess)](https://github.com/anuraghazra/github-readme-stats)
