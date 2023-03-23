@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=3&text=%20janeess%20&height=300&fontSize=100&fontColor=80B7E2&textBg=true&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=17&text=%20janeess%20&height=300&fontSize=100&fontColor=80B7E2&textBg=true&animation=fadeIn)
 
 
 <h3 align="center">
@@ -15,7 +15,7 @@
 
  # :sparkles:Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janeess&theme=solarized-light&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janeess&theme=github_dark&show_icons=true) 
 
  # :mag:Most Used Languages
  
