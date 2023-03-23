@@ -4,7 +4,7 @@
 
  </div>
  
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4&text=%20janeess%20&height=300&fontSize=100&fontColor=F8FAFA&animation=fadeIn&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=Waving&&color=0:FDFEFE,100:00070A&text=%20janeess%20&height=300&fontSize=100&fontColor=F8FAFA&animation=fadeIn&textBg=true)
 
 
 ## :mortar_board: Welcome to janeess👋
