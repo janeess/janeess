@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=17&text=%20janeess%20&height=300&fontSize=100&fontColor=80B7E2&textBg=true&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=black&text=%20janeess%20&height=300&fontSize=100&fontColor=F8FAFA&animation=fadeIn)
 
 
 <h3 align="center">
