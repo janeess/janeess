@@ -7,8 +7,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=black&text=%20janeess%20&height=300&fontSize=100&fontColor=F8FAFA&animation=fadeIn&textBg=true)
 
 
-### Hola a todos👋
-### :checkered_flag:I'm Hyejin Jeong, a new Backend developer! I'll always learn from a low position:blush:
+### :mortar_board: Welcome to janeess👋
+<ul>
+ <li>:checkered_flag: I'm currently learning</li>
+ <li>:blush: new Backend developer</li>
+ <li>:fire: I'll always learn from a low position</li>
+</ul>
 <br>
 
  # :sparkles:Github Stats
@@ -17,7 +21,7 @@
 
 # :mag:Most Used Languages
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janeess&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeess&layout=compact&theme=github_dark&hide_border=true" /></a> 
 
  # :wrench:Skills
  ### Platforms&Languages
