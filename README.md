@@ -17,10 +17,6 @@
 </h4>
 <br>
 
- # :sparkles:Github Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janeess&theme=github_dark&show_icons=true) 
-
 # :mag:Most Used Languages
  
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeess&layout=compact&theme=github_dark&hide_border=true" /></a> 
